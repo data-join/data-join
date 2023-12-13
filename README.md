@@ -4,7 +4,7 @@ Check out my blog at [planacademy.ru](https://planacademy.ru)!
 
 ## About Me
 
-I am BI developer
+I am a BI developer
 <!--
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 -->
